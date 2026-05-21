@@ -1,0 +1,6 @@
+{
+  "name": "Sungsimdang 70",
+  "description": "Graphic Newspaper celebrating the 70th Anniversary of Daejeon's iconic bakery in mid-century Pop-Art style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
